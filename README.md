@@ -26,3 +26,20 @@ print(result)
 120
 
 Process finished with exit code 0
+
+import math
+
+number = 25
+
+print("Square root:",math.sqrt(number))
+
+print("Natural logarithm:",math.log(number))
+
+print("Sine (radians):",math.sin(number))
+
+Square root: 5.0
+Natural logarithm: 3.2188758248682006
+Sine (radians): -0.13235175009777303
+
+Process finished with exit code 0
+
