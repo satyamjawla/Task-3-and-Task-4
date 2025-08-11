@@ -13,6 +13,7 @@ print(result)
 
 Process finished with exit code 0
 
+
 def factorial(n):
     if n<4:
         return 1
@@ -20,10 +21,8 @@ def factorial(n):
         return n * (factorial(n-1))
 
 
-result = factorial(5)
+result = factorial(6)
 print(result)
-
-
-20
+120
 
 Process finished with exit code 0
